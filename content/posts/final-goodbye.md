@@ -7,33 +7,39 @@ images:
   - /../photos/final.jpg
 ---
 
-I arrived in Belgium late in the afternoon. The weather was exceptional: half-clouded skies with no reservation of sunlight, a perfect balance of cool and warm. I exited from the train station and hoisted myself against a tall statue, eagerly looking for my squirrelly Belgium. 15 minutes had passed before I noticed her standing only 20 meters behind me, clad in a hoodie and a black leather jacket, gray faded jeans and the tall leather boots of an amazon. Upon realizing who it was looking at her, we sprinted toward one another and embraced as if someone had just come home from war. It felt good to be in her arms again. Her radiating eyes still had the ability to fully arrest my sensibilities.
+I arrive in Belgium late in the afternoon. The weather is exceptional: half-clouded skies with no reservation of sunlight, a perfect balance of cool and warm. I exit from the train station and hoist myself against a tall statue, eagerly looking for my squirrelly Belgium. 15 minutes pass before I spot her standing only 20 meters behind me, clad in a gray hoodie and a black leather jacket, lightly faded jeans and the tall leather boots of an amazon. Upon realizing that it was me looking at her, we sprint toward one another and embrace as if someone had just come home from war. It felt good to be in her arms again. Her radiating eyes still contained the ability to fully arrest my sensibilities.
 
-We caught up over coffee at a nearby restaurant. She talked about the difficulties of returning home, the growing tension between her and her parents, and the continued struggle of trying to find balance within her medical studies. I told her about the rest of my time on the Camino – the magical moments, the people I met, reaching Santiago, the decision not to go further, saying goodbye. It was surreal, the fact that I was in Belgium, staying with someone I had met on the Camino only weeks prior, the fact that I was with Marieke.
+We catch up over coffee at a nearby restaurant. She reflects on the difficulties of returning home, the growing tension between her and her parents, and the continued struggle of trying to find balance within her medical studies. I tell her about the rest of my time on the Camino – the magical moments, the people I met, reaching Santiago, the decision not to go further, saying goodbye. It feels surreal, the fact that I was in Belgium, staying with someone I had met on the Camino only weeks prior, the fact that I was there with Marieke.
 
-I was still confused about my feelings toward her. I believed I was in love, but something about it just didn’t feel right. Was it because we had met on the Camino? Would it have been too good to be true? Or did I simply get the impression that she wouldn’t love me back in the way I loved her? I was walking on a thin wire, unsure of when I would fall.
+I'm still confused about my feelings toward her. I believed I was in love, but something about it just didn’t feel right. Was it because we had met on the Camino? Would it have been too good to be true? Or did I simply get the impression that she wouldn’t love me back in the way I loved her? Was it really love? Or something else entirely?
+
+I was walking on a thin wire, unsure of when I would fall.
 
 <br>
 
-Later we went to a park and continued our conversation. She mentioned that Stepan had sent her a firey, passionate email admitting that he had fallen in love with her the moment they met. She was confused and a bit bewildered by the letter.
+Later we go to a park and continue our conversation. She mentions that Stepan had sent her a firey, passionate email admitting that he had fallen in love with her the moment they met. She seemed confused and a bit bewildered by the letter.
 
 We often wondered why he decided to walk the Camino, a question he always deflected or never gave a straight answer for.
 
-For awhile, we brainstormed ideas of what his motivations were for walking the Camino. Maybe he was a lost-soul searching for love; maybe he was just a normal guy struggling in life like everyone else, seeking solace in a foreign land. Maybe he did something unforgivable back in his home country. Whatever the case, the Camino had a way of connecting people despite the mysteries, sometimes because of them. On the Camino, the past wasn't as important as the fact that we were simply there, walking together, sharing our common humanity, sharing a love of the road.
+We brainstorm about what his motivations were for walking the Camino. Maybe he was a lost-soul searching for love; maybe he was just a normal guy struggling in life like everyone else, seeking solace in a foreign land. Maybe he did something unforgivable back in his home country. Whatever the case, the Camino had a way of connecting people despite the mysteries, sometimes because of them. On the Camino, the past wasn't as important as the fact that we were simply there, walking together, sharing our common humanity, sharing a love of the road.
 
-Eventually, our conversation transpired toward the topic of us – me and her – and she mentioned something I will never forget: “You know, back on the Camino, I could have fallen in love with you. We became so close so fast, and it scared me a little. But the reason I didn’t was that it would have changed the reasons for why we were there.” It was strange to talk so openly about us like this, but I replied that I understood and had felt the same way. Though a different dialogue was playing in my head: Yes, love does change people, but that’s precisely what makes it so beautiful. Wasn’t the Camino about embracing all that comes your way? 
+Eventually, our conversation transpires toward the topic of us – me and her – and she mentions something I will never forget: “You know, back on the Camino, I could have fallen in love with you. I wanted to. We grew so close so quickly, and it scared me a little. But I couldn't. It would have changed the reasons for why we were there.” It was strange to talk so openly about us like this, but I reply that I understand and felt the same way. Though a different dialogue was playing in my head: Yes, love does change people, but that’s precisely what makes it so beautiful. Wasn’t the Camino about embracing all that comes your way? 
 
 <br>
 
-We’re in her room, listening to Leonard Cohen. The question still lingers: do I love her? Does she love me? I won’t know until we talk about it. I won’t know until it's out in the open. I’m afraid. What if I jeopardize what we already have? No, we’re different. We can talk about anything and everything.
+We’re in her room, listening to Leonard Cohen. The question still lingers: do I love her? Does she love me? I won’t know until we talk about it. I won’t know until it's out in the open. 
 
-My gut and a block of lead hanging from it. A heart beating faster and faster. It wants to hide. To run. To fly away. To breathe.
+I’m afraid. What if I jeopardize what we already have? No, we’re different. We can talk about anything and everything.
 
-I am brittle glass, a thin sheet of paper on the eve of some unanticipated storm. In the distance, a gust with the power to break trees, and men. 
+My gut feels like a block of lead is hanging from it. My heart is beating faster and faster. It wants to hide. To run. To fly away. To breathe.
 
-A fire begins to kindle. I turn toward Marieke. She looks straight at me. Through me. Inaudible words enter the air. Time collapses.
+Still I don't know what to make of it, how to admit how I felt. I wasn't even sure of what I was feeling.
 
-“I'm in love with you.”
+A brittle piece of glass is standing on its corner at the edge of a table. Any amount of tumult or movement will tip it over. In the distance, a storm with the power to break trees, and men, is coming. 
+
+A fire begins to kindle, and I turn toward Marieke. She looks straight at me. Through me. Inaudible words enter the air. Time collapses.
+
+“I think I'm in love with you.”
 
 Silence.
 
@@ -42,6 +48,8 @@ Emptiness.
 A messy knot of shoestrings.
 
 A moment between moments.
+
+Words.
 
 “Phil, I have never met anyone like you before.
 
@@ -57,35 +65,38 @@ Your love is so pure.
 
 You––”
 
-A tiny piece of glass is shattering into a thousand tinier pieces. Time sweeps them into the pan of reality. A naked thread remains. The voice of Leonard Cohen rings in the nearby distance:
+Something falls. A tiny piece of glass has shattered into a thousand tiny fractals. Time begins to sweep them into the pan of reality. A naked thread remainsmm and the voice of Leonard Cohen echoes in the nearby distance:
 
-> Your letters they all say that you're beside me now. <br>
-> Then why do I feel alone? <br>
-> I'm standing on a ledge and your fine spider web <br>
-> is fastening my ankle to a stone. <br><br>
+_Your letters they all say that you're beside me now._
+_Then why do I feel alone?_
+_I'm standing on a ledge and your fine spider web_
+_is fastening my ankle to a stone._
 
-> Now so long, Marianne, it's time that we began <br>
-> To laugh and cry and cry and laugh about it all again. <br>
+_Now so long, Marianne, it's time that we began_
+_To laugh and cry and cry and laugh about it all again._
 
 <br>
 
-Marieke and I go to an African church service the next day. I feel numb but put on a front. We sing and listen to a genial priest preach about love, forgiveness, redemption. I hear nothing. _What the hell do you know about love?_ We eat, drink, chat, walk around. Things go as planned. 
+The next day, Marieke and I go to an African church service. I feel numb but put on a front. We sing with the choir and listen to a genial priest preach about love, forgiveness, redemption. I hear nothing. _What the hell do you know about love?_ We eat, drink, chat, and walk around. Things go on as planned.
 
 Then we’re in the train station. A young, affectionate couple is sitting near us. They're utterly in love, grossly enmeshed and atop one another. Time halts once again.
 
 Anger. Sadness. Disappointment.
 
-No. I can't be angry, sad, disappointed.
+_No. I can't be angry, sad, disappointed._
 
-To be in love, to have fallen in love, to have been heartbroken. That, in a way, is a gift.
+_To be in love, to have fallen in love, to have been heartbroken. That, in a way, is a gift._
 
-Am I rationalizing my pain? I don’t know. It doesn't matter. I have never felt more alive.
+_Am I rationalizing my pain? I don’t know. It doesn't matter._
 
-I guess this is it then.
 
-We embrace one last time and say our goodbyes. I board the train and look at her through the opaque window. She looks back. I wave and turn inwards. A tear begins to creep down my cheek. I close my eyes.
+We embrace one last time and say our goodbyes. I board the train and take one last look at her through the opaque window. She looks back. I wave and turn inwards. A tear begins to creep down my cheek. I close my eyes.
 
-The engine whirs to life, and slowly, slowly, I am taken by the arms of an unknown future. The distance between dream and reality begins to grow, and I am pulled against my will toward the latter. Somewhere else in the world, the sun is shining.
+_I guess this is it then._
+
+The engine whirs to life, and slowly, slowly, I am taken by the arms of an unknown future. The distance between dream and reality begins to grow, and I am pulled against my will toward the latter. 
+
+Somewhere else in the world, the sun is shining.
 
 ### My Final Letter: October 15th, 2017
 

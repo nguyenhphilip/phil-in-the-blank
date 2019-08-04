@@ -10,7 +10,7 @@ images:
 
 ### Day 21
 
-4:30am. I inch out from my sleeping bag like a slug, careful not to disturb the others in the room. I pack my things and head downstairs. Pauline and Morgan are already awake. We’re late.
+4:30am. I inch out from my sleeping bag like a slug, careful not to disturb the others in the room, pack my things and head downstairs. Pauline and Morgan are already awake. We’re late.
 
 My eyes are crusty. I wolf down a prepacked sandwich – chorizo and cheese – with yogurt. Pauline makes us some coffee. Bland, but it will do. Shoes on, rucksacks shouldered, we’re on the move.
 
@@ -20,7 +20,7 @@ Pauline is several paces ahead of Morgan and I. We exit town and walk into the t
 
 <br>
 
-Pauline disappears into the darkness. We know she’s ahead, somewhere, but we don’t see her – we can’t. It’s just Morgan and I. We decide not to use our flashlights in order to see the stars. Flickers of movement perturb the corners of my vision. Rock and gravel crunch beneath the soles of our shoes.
+Pauline disappears into the darkness. We know she’s ahead, somewhere, but we don’t see her – we can’t. It’s just Morgan and I. We've decided not to use our flashlights in order to see the stars. Flickers of movement perturb the corners of my vision. Rock and gravel crunch beneath the soles of our shoes.
 
 We’re walking on a long and narrow road alongside an empty highway. Two cars drive by and shock us with their blinding highbeams. Morgan is close. I wonder if she’s scared of the dark. In the eastern quadrant of the sky, my eyes catch a streak of light. I lean my head back and gaze into the dark ocean, scanning. A shooting star. Another blazes by; I catch it this time. Another, then another. I make a wish.
 
@@ -38,9 +38,11 @@ _Some time in the afternoon._
 
 “TIMOOTHY!!”
 
-I turn around and spot my two favorite Germans, now on bicycles: Franca and Matilde. Matilde tells me her feet aren’t in too good of shape, so they've bought bikes to compensate. They’re headed to Leon. Morgan, Pauline and I consider following them. It’s an extra 10 kilometers on top of the 27 we’ve already walked. There’s a sharp pain in my hip joint and achilles, but we decide to go for it.
+I turn around and spot my two favorite Germans, now on bicycles: Franca and Matilde. Matilde tells me her feet aren’t in great of shape, so they've bought bikes to compensate. They’re headed to Leon. Morgan, Pauline and I consider following them. It’s an extra 10 kilometers on top of the 27 we’ve already walked. There’s a sharp pain in my hip joint and achilles, but we decide to go for it.
 
-10 kilometers later we’re in the Leon. The height of hills and street curbs have become insurmountable. I wince in agony as I drag my legs through the city. We reach the albergue. 38 kilometers total according to my FitBit, the longest distance I’ve walked yet. No Franca and Matilde though. They must be elsewhere.
+10 kilometers later we’re in Leon. The height of hills and street curbs have become insurmountable. I wince in agony as I drag my legs through the city. 
+
+We reach the albergue. 38 kilometers total according to my FitBit, the longest distance I’ve walked yet. No Franca and Matilde though. They must be elsewhere.
 
 In the dining room I see Gael, a Belgian I had met about a week ago in another albergue. I tell him how far I’ve walked today. He grins and replies, “Well, if you’re tired your face doesn’t show it!” Gael has a great attitude. “When I am climbing these hills, I imagine that I am a bird flying over them; what is pain but weakness leaving the body; no matter what decision you make, you make it the best one; just smile and keep walking!”
 

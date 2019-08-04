@@ -9,7 +9,7 @@ images:
 
 ### September 23, 2017 - Day 17
 
-We are always on the cusp of collapse and redemption. Do we then choose to rise, or do we settle and fall?
+We are always on the cusp of collapse and redemption. Do we choose to rise, or do we settle and fall?
 
 Stories = meaning. The mind is a meaning-making machine.
 

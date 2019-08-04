@@ -17,19 +17,19 @@ Upon finishing the story, the seeds of the Camino were planted in my mind. "I wi
 
 I had just finished my year of service with City Year, New Hampshire. The plan afterwards was to attend Boston University for a graduate program in Educational Leadership and Policy Studies. But it didn’t feel like a good fit for me, so I withdrew my application and, with little time for decisions and no alternatives in sight, took a job as a camp counselor in Maine.
 
-During the second week of camp I applied for a job in Colorado, confident of my ability to secure the position, only to be met by rejection. It then become clear to me that I had no sense of direction in my life. I had nearly accepted an offer to go to graduate school only because it seemed like the proper thing to do, and I had applied to a random job in Colorado because I yearned for a sense of security. 
+During the second week of camp I applied for a job in Colorado, confident of my ability to secure the position. But I was only met by dey rejection. It then become clear to me that I had no sense of direction in my life. I had nearly accepted an offer to go to graduate school only because it seemed like the proper thing to do, and I had applied to a random job in Colorado because I yearned for a sense of security. 
 
-What was I truly willing to work for? What did I actually want to do with my life? How did I want to live? These questions haunted me, beckoning for resolution, yet I had no answers.
+But what was I truly willing to work for? What did I actually want to do with my life? How did I want to live? These questions haunted me, beckoning for some resolution, yet I had no answers. 
 
-I turned to books for guidance––my usual coping strategy––and reread The Alchemist and When Breath Becomes Air. The Alchemist inspired a dreamy sense of possibility while Breath instilled a demanding sense of urgency. But neither resolved my growing existential dilemma.
+I turned to books for guidance––my usual coping strategy––and reread The Alchemist and When Breath Becomes Air. The Alchemist inspired a dreamy sense of possibility while Breath instilled a demanding sense of urgency. But neither resolved my growing existential angst.
 
 Two weeks later, like a godsend, the idea of walking the Camino came to mind. The sensible me thought the idea was impulsive and irresponsible: what if I was wasting my time? Was I only avoiding my problems? Was I simply choosing to run away? In the end my gut ignored these worries and made the decision for me: I went to the farmhouse--the only place with internet access at camp--and bought a one-way ticket to Europe.
 
-A strange thing began to happen once my mind had settled on the decision: life got better. Once I had finally committed to something, my capacity to experience grew. Camp became a source of joy, my relationships improved, my worries tempered. I reveled in the interplay of Maine’s idyllic landscapes, the slow passage of time, and the high-pitched screams of happy campers.
-
-![me and a kiddo](/../photos/camp-kiddo.jpg)
+A strange thing happened once my mind had settled on the decision: life got better. Once I had finally committed to something, my capacity to experience grew as I settled into the present. Camp became a pure source of joy, my relationships improved, my worries tempered. I reveled in the interplay of Maine’s idyllic landscapes, the slow passage of time, and the high-pitched screams of happy campers.
 
 On one of our last nights off, some of the Hungarian staff and I decided to camp in Acadia National Park. We pitched our tents beneath an array of stars and pine silhouettes, lit a fire, and feasted on chips, beer, and wine. The smell of sizzling bacon and campfire filled the air. I turned toward my foreign friends, then to the grand night sky. In that moment, it felt as if the universe was watching over me. I entrusted my future to it, I believed that everything would work itself out, I let go of the incessant desire to control everything. In the warm arms of the sublime, I felt light, free, happy, and loved. Like Charlie from The Perks of Being a Wallflower, I felt infinite.
+
+![me and a kiddo](/../photos/camp-kiddo.jpg)
 
 ## The Woods of Maine
  
@@ -39,43 +39,43 @@ It was my birthday –– August 10th. "Not much has changed but me," I thought.
 
 I wrote a promise to myself: 
 
->This life you have before you is the only certainty. Don’t take it for granted. Own it and live it with meaning, beauty, courage, grace, and presence. Dare to dream. Spend it with people you love, spend it loving people. Be heartbroken, be brave, make mistakes. Do all of the things that scare the shit out of you.
+_This life you have before you is the only certainty. Don’t take it for granted. Own it and live it with meaning, beauty, courage, grace, and presence. Dare to dream. Spend it with people you love, spend it loving people. Be heartbroken, be brave, make mistakes. Do all of the things that scare the shit out of you._
 
 ![](/../photos/camp.jpg)
 
-Once camp ended, I drove down to New Hampshire to see an old friend. We hiked Mount Washington –– I went barefoot –– and exchanged stories in the backdrop of the White Mountains. Afterwards I camped in the woods of Maine for five days while waiting for my friend Eszter to finish her remaining days at camp.
+Once camp ended, I drove down to New Hampshire to see an old friend. We hiked Mount Washington –– I was barefoot –– and exchanged stories in the backdrop of the White Mountains. 
 
-In the woods, I saw my inner demons with staggering clarity. Insecurity, self-doubt, fear, loneliness –– they had settled themselves in the forefront of my being. Only until I had learned to accept them as parts of me could I enjoy nature’s invitation to solitude and serenity.
+Afterwards, I camped in the woods of Maine for five days while waiting for my friend Eszter to finish her remaining days at camp. In the woods, I saw my inner demons with staggering clarity. Insecurity, self-doubt, fear, loneliness –– they had settled themselves nicely in the forefront of my being. It was only when I had learned to accept them as parts of me was I able to enjoy nature’s invitation to solitude and serenity.
 
-One night, sitting on the crest of Seboeis Lake, I watched the clear water shimmer, and a growing sense of calm began to overtake me. My problems grew small, insignificant, and petty amid the grandeur, fading altogether as the water reposed and sun descended. Silence took its hold and the movement of time disappeared. It was incredibly peaceful, and I started to cry and laugh out of sheer euphoria. My audience, an ensemble of crickets, cicadas and other creatures, echoed in unison under the starry sky. I had been invited to witness a crescendo of grand proportions, and nature was the composer. My loneliness was alleviated, and the words of Oliver Sacks rang through my mind: I, then and there, was having intercourse with the natural world.
+One night, sitting on the crest of Seboeis Lake, I watched the clear water shimmer, and a growing sense of calm began to overtake me. My problems grew small, insignificant, and petty, fading altogether as the water reposed and sun descended. Silence took its hold and my perception of time disappeared. It was incredibly peaceful, and I started to cry and laugh out of sheer euphoria. My audience, an ensemble of crickets, cicadas and other creatures, echoed in unison under the starry sky. I had been invited to witness a crescendo of grand proportions, and nature was the composer. My loneliness, for a moment, was alleviated, and the words of Oliver Sacks rang through my mind: I, then and there, in the middle of an intimate intercourse with the natural world.
 
-Moments like these were rare, though I've noticed they are more likely to visit in conditions that allow for total stillness. Should a person survive what feels like a trial by fire, this staggering state of loneliness, they emerge more alive and deeply in-tune with the world around them. Their capacity for love, understanding, and presence deepens. They become infinitely more capable. They are grateful to have been called back as cast members in the grand play of the cosmos.
+Moments like these were rare. I recognized they were more likely to visit in conditions that allow for total stillness. Should a person survive what initially feels like a trial by fire, this staggering state of loneliness, they emerge more alive and deeply in-tune with the world around them. Their capacity for love, understanding, and presence deepens. They become infinitely more capable. They are grateful to have been called back as cast members in the grand play of the cosmos.
 
 ## Canada
 
-I met Eszter in a canoe. Initially she seemed hesitant to tag along because she either didn’t know how to swim, or she couldn’t swim very well. Regardless, in an attempt to ease her concerned look--and probably to impress her--I assured her that I had done this before, that she could trust me to take her safely across the vast Echo Lake. In truth, it was my first time ever commanding a canoe, and luckily for the both of us, it turned out to be a relatively easy task.
+I met Eszter in a canoe. Initially she seemed hesitant to tag along because she either didn’t know how to swim, or she couldn’t swim very well. Regardless, in an attempt to ease her concerned look--and probably to impress her--I assured her that I had done this before, that she could trust me to take her safely across the vast Echo Lake. In truth, it was my first time ever commanding a canoe. Luckily for the both of us, it turned out to be a relatively easy task.
 
 The summer air was pristine, the lake gleamed in the sunlight, loon calls echoed in the distance. It was a perfect afternoon. I took notice of Eszter’s dark eyes, her rough European accent, her curious necklace with a dragon hanging from it. She came from Hungary and worked in the Chef Camp program. We talked about nature and our place as humans in it, what life at camp was like, our lives outside of camp, U.S. consumerism, among other things. 
 
-We didn’t get the chance to see each other again until weeks later. Camp kept us busy, I out on the lake and she in the corners of Chef Camp. A few days after I had decided to walk the Camino, she posted on the camp Facebook page that she was looking for people to go to Canada with.
+We didn’t see each other again until weeks later. Camp kept us busy, I out on the lake and she in the corners of Chef Camp. A few days after I had decided to walk the Camino, she posted on the camp Facebook page that she was looking for people to go to Canada with.
 
-At that point I had developed a crush on her, which, to me, seemed terribly irrational. She lived in Hungary, English wasn’t her native language, and I had no clue as to what I would be doing for the rest of the year. Regardless, the feelings were there, and I wanted to spend time with her. What did I have to lose? At the very least, the trip would be fun. So I replied to her post.
+At that point I had developed a crush on her, which, to me, seemed terribly irrational. She lived in Hungary, English wasn’t her native language, and I had no clue as to what I would be doing for the rest of the year. Regardless, the feelings were there, and I wanted to be in her company. What did I have to lose? At the very least, the trip would be fun. 
 
 Later, we met and talked about the trip. We considered flying to Quebec and Montreal, but that meant I would've needed to find a place to store my car –– more unnecessary expenditures. So I offered to drive instead. She looked at me with excited, perhaps bewildered eyes and said, in her rough Hungarian accent, “We’re going to fucking Canada!”
 
-In two days we drove from Maine to Quebec, from Quebec to Montreal, and from Montreal to Niagara Falls, with some detours to Ottawa and Cobourg in-between. Our friendship grew through a confluence of stupid jokes and cringy puns, camper stories, and Hungarian metal. She taught me Hungarian curse words and I taught her American colloquialisms: stuff like brooo, suhp duuude, liike, y’know.
+In two days we drove from Maine to Quebec, from Quebec to Montreal, and from Montreal to Niagara Falls, with some detours to Ottawa and Cobourg in-between. Our friendship grew through the confluence of stupid jokes and cringy puns, camper stories, and Hungarian metal. She taught me Hungarian curse words and I taught her American colloquialisms. Stuff like "brooo, suhp duuude, liike, y’know."
 
-What brought us close was our willingness to be vulnerable: we were open, honest, and non-judgmental in sharing our pasts, in telling each other our darkest fears and deepest worries. We exchanged secrets that possessed the capacity to destroy a person, secrets and thoughts that most people would rather hide and bury in their psyches for eternity. Yet there we were, two people who were once complete strangers, attempting to piece together the incomplete shards of our disparate pasts, constructing the foundation of an enduring friendship.
+What brought us close was our willingness to be vulnerable: we were open, honest, and non-judgmental in sharing our pasts, in telling each other our worst fears and deepest worries. We exchanged secrets that possessed the capacity to destroy a person, secrets and thoughts that most people hide and bury in their psyches for eternity. Yet there we were, two people who were once complete strangers, attempting to piece together the incomplete shards of our disparate pasts, constructing the foundation of an enduring friendship.
 
 In moments like these, I wanted to pull her close, wrap her in my arms, and tell her that everything would be fine--that everything was fine, at least for the moment; that even if I did not fully understand her situation, I would always be there for her; that we, with our powers combined, could get through anything; that she was with me, the overly optimistic, boundlessly romantic, Phil.
 
-We parted ways at Toronto Pearson International Airport. She was heading to Mexico, and I to Ohio. It was a bittersweet goodbye--bitter because I had never been good at letting people go, despite all of the practice I've had, sweet because I had been lucky enough to have shared the journey with her.
+We parted ways at Toronto Pearson International Airport. She was heading to Mexico, and I to Ohio. It was a bittersweet goodbye--bitter because I have never been good at letting people go despite all of the practice I've had, sweet because I had been lucky enough to have shared the journey with her.
 
 She told me, as we let one another out of our embrace, "Phil, it not a goodbye. It's a see you later."
 
 ## Departure to the Camino: September 5th, 2017
 
-I woke up in Boston on the cold, wooden floor of a friend’s apartment. It was his first day of graduate school, and my last in the U.S.
+I woke up in Boston on the cold, wooden floor of my friend’s apartment. It was his first day of graduate school, and my last in the U.S.
 
 My only possessions were my 30L backpack, three sets of outfits, two books, a sleeping bag, my down jacket, a phone charger, toiletries, my boots, and a 12-pack of granola bars. My pack weighed no more than 10 lbs. The only thing left to prepare was my mind. I was jittery and nervous, but also breathless and excited.
 
@@ -95,7 +95,7 @@ I spent most of the morning in a coffee shop writing a letter to my friends:
 
 > Your friendly neighbor, Phil
 
-After posting the update to Facebook, I thought of my parents and the argument we had a few days prior about my decision to walk the Camino. They believed I was being reckless, that I should’ve taken the opportunity at Boston University; that I, at the age of 24, should have my life figured out. I felt like a disappointment, a terrible son. But this was the path I wanted to walk, and I needed them to know that.
+After posting the update to Facebook, I thought of my parents and the argument we had a few days prior about my decision to walk the Camino. They believed I was being reckless, that I should’ve taken the opportunity at Boston University. They believed that I, at the age of 24, should've had my life figured out. I felt like a disappointment, a terrible son. But this was the path I had decided to walk, and I needed them to know that I wasn't backing out.
 
 I wrote a journal entry expressing my frustrations:
 
@@ -114,7 +114,7 @@ I wrote a journal entry expressing my frustrations:
 > As I learn how to forgive myself,<br>
 > And love you.
 
-Then I wrote them a letter expressing how I felt. I sent it minutes before boarding my plane to Europe:
+Then I wrote them a letter expressing how I felt. I sent it minutes before boarding the plane to Europe:
 
 >Dear Mom and Dad,<br><br>
 
@@ -140,9 +140,9 @@ Then I wrote them a letter expressing how I felt. I sent it minutes before board
 
 >Your Son
 
-Sending it was one of the hardest things I had ever done. I was petrified -- what would they say? Would they even understand? We weren’t a family that expressed our feelings so openly like this. It was always about the basics -- food, water, money, school, family. 
+Sending it was one of the hardest things I have ever done. I was petrified -- what would they say? Would they even understand? We weren’t a family that expressed our feelings so openly like this. It was always about the basics -- food, water, money, school, family. 
 
-Before boarding, my Mom left me with this message:
+But before boarding, my Mom left me with this message:
 
 “Philip, remember you will always be our son. I know you’re independent and want to do what you want, but always remember that. Me and your Dad will always support you, but know that I don’t feel happy about what you’re doing. I don’t feel good. I’m scared. Please stay safe. Keep us updated and send pictures. Your Dad and I love you.”
 

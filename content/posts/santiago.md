@@ -5,7 +5,6 @@ tags:
   - Camino de Santiago
 images:
   - /../photos/santiago8.jpg
-
 ---
 
 >“How we spend our days is, of course, how we spend our lives.”
@@ -17,43 +16,37 @@ _Pedrouzo, Spain._
 
 In 20 kilometers, I will reach Santiago de Compostela. The anticipation has left me sleepless. Ali and Karen are fast asleep. Hope to see them again soon. I pack my things and make a quiet exit.
 
-It’s dark out. Cars lie dormant under the hazy hue of flickering streetlights. Shop-signs strobe with a familiar fluorescence. I’m on the corner of a three-way intersection, eating a bun Karen had given me the night before. A wiry cat pokes its nose around, perhaps searching for food. Not too far ahead, I hear the rhythmic clacking of walking-poles. I finish my bun and proceed into the twilight, guided by nothing more than a small yellow arrow.
+It’s dark out. Cars lie dormant under the hazy hue of flickering streetlights. Shop-signs strobe with a familiar fluorescence. I’m on the corner of a three-way intersection, eating a bun Karen had given me the night before. A wiry cat pokes its nose around, perhaps searching for food. Not too far ahead, I hear the rhythmic clacking of steel against pavement and rock. I finish my bun and proceed into the twilight, guided by nothing more than a small yellow arrow.
 
 <br>
 
-Neurons fire, muscles tense. One leg initiates, the other balances. Knee propels forward, heel touches ground. A weight shifts from posterior end to anterior front. Heel lifts, toes tip, a leg swings. One step. Repeat.
+Neurons fire, muscles tense. One leg initiates, the other balances. Knee propels forward, heel touches ground. A weight shifts from posterior end to anterior front. Heel lifts, toes tip, a leg swings. One step, repeat.
 
-I have suffered. I have felt pain. I have grown. I have become stronger. I am no longer under the illusion that life is best lived in pasts, shoulds, and futures. This is it. The people. The weather. The circumstances. Dusted boots. Rucksacks. A sunflower. Cobalt skies. Birdsong. Valleys. One leg in front of the other. Trotting. Walking. Sauntering.
-
-Purpose may give direction to the journey, but it is our immediate presence that gives it meaning.
-
-Santiago awaits.
-
-<br>
+I have suffered. I have endured pain. I have grown. I am no longer under the illusion that life is best lived in pasts, shoulds, and futures. This is it. The people. The weather. The circumstances. Dusted boots and tall rucksacks. A sunflower. Cobalt skies. Birdsong. Valleys. One leg in front of the other. Trotting. Walking. Sauntering.
 
 A strange thing happened. 10 kilometers from Santiago, while walking along a sidewalk, I was either hallucinating or vividly imagining the presence of every person I had met on the Camino. Matilde and Franca were tiptoeing across the fence to my left, as if on a tightrope. Closer to me was Stepan, Jim, and Kathy. Marieke was to my right. Everyone else was behind me, walking in silence. I realize that I have walked in solitude, but never have I been alone. The people, they have found a permanent place within my heart.
 
-<br>
+Purpose may give direction to the journey, but it is our immediate presence and attention that gives it meaning.
+
+Santiago awaits.
 
 _Santiago_
 
-I reached Santiago de Compostela on October 8th of 2017, a Sunday. I was in a dreamy state of mind, not at all aware of the time and unsure of what to expect upon reaching the cathedral. I sifted through crowds of tourists and pilgrims, between narrow streets and alleyways, guided by a yellow arrow. The sound of bagpipes and commotion filled the air. Something smelled delicious. Anticipation coursed through my veins.
+I reach Santiago de Compostela on October 8th of 2017. It's a Sunday. I'm in a dreamy state of mind, not at all aware of time and unsure of what to expect upon reaching the cathedral. I sift through crowds of tourists and pilgrims, between narrow streets and alleyways, guided by nothing more than a yellow arrow. The sound of bagpipes and commotion fill the air. Something smells delicious. Anticipation is coursing through my veins.
 
 ![](/../photos/santiago2.jpg)
 
-I walked to the center of the plaza, dismounted my rucksack, and sat for awhile. I looked at the faces surrounding me, searching for a sign. I felt nothing.
+I walk to the center of the plaza, dismount my rucksack, and sit for awhile. I look at the faces surrounding me, searching for a sign. I feel nothing.
 
-I shifted my gaze to a man looking at me. We stared at each other for what seemed like an eternity. The look in his eyes spoke to me: Yes, you are here. Yes, you have made it.
+I turn my attention and notice a man looking at me. We stare at each other for what seemed like an eternity. The look in his eyes spoke to me: Yes, you are here. Yes, you have made it.
 
-I began to cry. Peace and stillness, awe and gratitude, love and surrender; I was filled with the energy of raw, unfiltered emotion. The boundary between the world and I dissipated. I felt connected, whole, complete. I was no longer just Phil. I was a fluid, living, impermeable being that simply lived behind a mask called Phil.
+I begin to cry. Peace and stillness, awe and gratitude, love and surrender; I am filled with the energy of raw, unfiltered emotion. The boundary between the world and I dissipates. I feel connected, whole, complete. I was no longer just Phil. I was a fluid, living, impermeable being that simply lived behind a mask called Phil.
 
-The people around me suddenly became more than just people. They were human beings with families, friends, and feelings of their own; they each had their own unique stories, lives they’ve lived and will continue to live. Their eyes emitted a beautiful, radiating light, a light I can only describe as the light of Being, a light that said:
+The people around me suddenly become more than just people. They're human beings with families, friends, and feelings of their own; they are each in possession of their own unique stories, lives they’ve lived and will continue to live. Their eyes emit a beautiful, radiating light, a light I can only describe as the light of Being, a light that says:
 
 “I am human. I too feel love, pain, suffering, joy, curiosity, wonder. I am you. You are me. A perfect bundle of imperfections. And here we are, together, on a journey across Spain, across life, living a shared existence on a tiny blue mote called Earth amid a less tiny, wildly unknown universe. This is it.”
 
-The man approached me in tears, and we embraced each other.
-
-I had made it.
+The man approaches me in tears, and we hold each other.
 
 ![](/../photos/santiago3.jpg)
 
