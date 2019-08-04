@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adulthood on Phil in the Blank</title>
+    <link>/tags/adulthood/</link>
+    <description>Recent content in adulthood on Phil in the Blank</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/adulthood/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lessons in Adulthood</title>
+      <link>/posts/adulthood/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/adulthood/</guid>
+      <description>Crossroads My year of service with City Year, New Hampshire was coming to an end. I knew that I didn’t want to become a teacher anymore, but I still liked the idea of shaping the young minds of the future, so I applied to Boston University’s Masters program in Educational Leadership and Policy Studies.
+I was waiting for my flight home in O’Hare International Airport when I received the news.</description>
+    </item>
+    
+  </channel>
+</rss>

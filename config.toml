@@ -1,0 +1,40 @@
+baseurl                  = "https://example.com/"  # Your domain name. Must end with "/"
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Phil in the Blank"
+theme = "hugo-theme-sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    homepage             = "main"                           # What to call the home page link
+    footerText           = "Phil Nguyen 2019 | Call me Sam Hugo theme"
+
+# Metadata for Open Graph and Twitter
+    description          = "Phil H. Nguyen. A place to write and explore my curiosities."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Phil in the Blank"
+
+[[params.mainMenu]]
+    link = "/posts"
+    text = "posts"
+
+[[params.mainMenu]]
+    link = "/projects"
+    text = "projects"
+
+[[params.mainMenu]]
+    link = "/photos"
+    text = "photos"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "Phil"
+
+[imaging]
+    quality = 75

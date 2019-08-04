@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>travel on Phil in the Blank</title>
+    <link>/tags/travel/</link>
+    <description>Recent content in travel on Phil in the Blank</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rome</title>
+      <link>/posts/2019-06-23-rome/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2019-06-23-rome/</guid>
+      <description>I recently went to Rome, and it was nothing short of stimulating, sensuous, and overwhelming. From the minimal use of ingredients in Italian cuisine to the incredible works of Michaelangelo and other Roman artists, everywhere you went, everything you touched, tasted and smelled, everything you experienced, it all seemed like some part of a grand plan aimed at steering one’s senses toward a deeper appreciation and understanding of beauty and aesthetics.</description>
+    </item>
+    
+  </channel>
+</rss>

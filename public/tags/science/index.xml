@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>science on Phil in the Blank</title>
+    <link>/tags/science/</link>
+    <description>Recent content in science on Phil in the Blank</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rome</title>
+      <link>/posts/2019-06-23-rome/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2019-06-23-rome/</guid>
+      <description>I recently went to Rome, and it was nothing short of stimulating, sensuous, and overwhelming. From the minimal use of ingredients in Italian cuisine to the incredible works of Michaelangelo and other Roman artists, everywhere you went, everything you touched, tasted and smelled, everything you experienced, it all seemed like some part of a grand plan aimed at steering one’s senses toward a deeper appreciation and understanding of beauty and aesthetics.</description>
+    </item>
+    
+    <item>
+      <title>The Pale Blue Dot</title>
+      <link>/posts/2019-03-15-pale-blue-dot/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2019-03-15-pale-blue-dot/</guid>
+      <description>Propelled into space in 1977, NASA’s scientific objective of launching the Voyager I was to photograph the planets of the outer solar system. They expected the spacecraft to function no further than Saturn. Yet work it did, and it continues to defy expectation up to this day, still traveling at 40,000 miles per hour, somewhere at or beyond the edges of our solar system.
+When the Voyager passed Saturn, Carl Sagan – astronomer, cosmologist, astrophysicist, lover and communicator of science – requested that NASA turn the cameras back toward home.</description>
+    </item>
+    
+    <item>
+      <title>Letters to a Young Scientist</title>
+      <link>/posts/2018-08-05-letters-to-a-young-scientist/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2018-08-05-letters-to-a-young-scientist/</guid>
+      <description>Veteran biologist and teacher of science Edward Wilson lays out a few principles for the young scientist to keep in mind as he/she/they proceed in their career:
+ Put passion ahead of training. Feel out in any way you can what you most want to do in science, or technology, or some other science-related profession. Obey that passion as long as it lasts. Feed it with the knowledge the mind needs to grow.</description>
+    </item>
+    
+  </channel>
+</rss>
