@@ -1,6 +1,8 @@
 ---
 date: "2017-12-18"
 title: "6: Sunsets and Soulmates"
+categories:
+  - Camino de Santiago
 tags: 
   - Camino de Santiago
 images:

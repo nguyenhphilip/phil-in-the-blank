@@ -1,6 +1,8 @@
 ---
 date: "2017-12-21"
 title: "9: An Ode to the Road"
+categories:
+  - Camino de Santiago
 tags: 
   - Camino de Santiago
 images:

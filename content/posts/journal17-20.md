@@ -1,6 +1,8 @@
 ---
 date: "2017-12-22"
 title: "10: Journal Entries from Day 17 - 20"
+categories:
+  - Camino de Santiago
 tags: 
   - Camino de Santiago
 images:

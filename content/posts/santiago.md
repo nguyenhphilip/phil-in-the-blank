@@ -1,6 +1,8 @@
 ---
 date: "2017-12-28"
 title: "16: Santiago"
+categories:
+  - Camino de Santiago
 tags: 
   - Camino de Santiago
 images:

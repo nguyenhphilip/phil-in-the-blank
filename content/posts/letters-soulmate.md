@@ -3,6 +3,8 @@ date: "2017-12-26"
 title: "14: Letters to a Camino Soulmate"
 tags: 
   - Camino de Santiago
+categories:
+  - Camino de Santiago
 ---
 
 These are the emails Marieke and I wrote to each other after she was gone. They might give you a better picture of my Camino experience. Writing to her was always a highlight. Sorry for the grammar. Wrote every letter on my phone.

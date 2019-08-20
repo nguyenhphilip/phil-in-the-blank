@@ -1,6 +1,8 @@
 ---
 date: "2017-12-30"
 title: "18: Home"
+categories:
+  - Camino de Santiago
 tags:
   - Camino de Santiago
 images:

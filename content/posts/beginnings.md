@@ -3,6 +3,8 @@ date: "2017-12-13"
 title: "1: Beginnings"
 tags: 
   - Camino de Santiago
+categories:
+  - Camino de Santiago
 images:
   - /../photos/begin.jpg
 ---

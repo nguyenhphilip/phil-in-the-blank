@@ -1,5 +1,7 @@
 ---
 date: "2017-12-16"
+categories:
+  - Camino de Santiago
 title: "4: Möge die Straße"
 tags: 
   - Camino de Santiago

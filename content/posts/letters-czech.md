@@ -1,6 +1,8 @@
 ---
 date: "2017-12-27"
 title: "15: Letters Worth Czeching Out"
+categories:
+  - Camino de Santiago
 tags: 
   - Camino de Santiago
 ---

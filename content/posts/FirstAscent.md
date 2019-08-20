@@ -1,6 +1,8 @@
 ---
 date: "2017-12-14"
 title: "2: First Ascent"
+categories:
+  - Camino de Santiago
 tags: 
   - Camino de Santiago
 images:

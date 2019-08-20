@@ -5,6 +5,8 @@ tags:
   - Camino de Santiago
 images:
   - /../photos/final.jpg
+categories:
+  - Camino de Santiago
 ---
 
 I arrive in Belgium late in the afternoon. The weather is exceptional: half-clouded skies with no reservation of sunlight, a perfect balance of cool and warm. I exit from the train station and hoist myself against a tall statue, eagerly looking for my squirrelly Belgium. 15 minutes pass before I spot her standing only 20 meters behind me, clad in a gray hoodie and a black leather jacket, lightly faded jeans and the tall leather boots of an amazon. Upon realizing that it was me looking at her, we sprint toward one another and embrace as if someone had just come home from war. It felt good to be in her arms again. Her radiating eyes still contained the ability to fully arrest my sensibilities.

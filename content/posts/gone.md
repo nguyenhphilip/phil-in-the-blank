@@ -1,6 +1,8 @@
 ---
 date: "2017-12-20"
 title: "8: Gone"
+categories:
+  - Camino de Santiago
 tags: 
   - Camino de Santiago
 images:

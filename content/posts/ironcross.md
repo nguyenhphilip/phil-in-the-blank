@@ -1,6 +1,8 @@
 ---
 date: "2017-12-25"
 title: "13: The Iron Cross"
+categories:
+  - Camino de Santiago
 tags: 
   - Camino de Santiago
 images:

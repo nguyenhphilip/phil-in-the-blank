@@ -1,6 +1,8 @@
 ---
 date: "2017-12-17"
 title: "5: The Cusp of Time and Infinity"
+categories:
+  - Camino de Santiago
 tags: 
   - Camino de Santiago
 images:

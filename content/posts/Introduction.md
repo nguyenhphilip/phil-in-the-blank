@@ -1,6 +1,8 @@
 ---
 date: "2017-12-12"
 title: "0: Introduction"
+categories:
+  - Camino de Santiago
 tags:
   - Camino de Santiago
 images:

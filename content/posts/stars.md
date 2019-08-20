@@ -1,6 +1,8 @@
 ---
 date: "2017-12-23"
 title: "11: A Sea of Stars"
+categories:
+  - Camino de Santiago
 tags: 
   - Camino de Santiago
 images:

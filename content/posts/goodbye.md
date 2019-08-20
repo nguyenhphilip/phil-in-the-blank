@@ -1,6 +1,8 @@
 ---
 date: "2017-12-19"
 title: "7: Goodbye"
+categories:
+  - Camino de Santiago
 tags: 
   - Camino de Santiago
 images:
